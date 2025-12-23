@@ -1,0 +1,7 @@
+{
+  "name": "Grand Luxury Interactive Christmas Tree",
+  "description": "A high-fidelity, cinema-quality 3D interactive experience featuring a 'Trump-style' luxury Christmas tree that dynamically forms from chaos into a grand structure. Built with React Three Fiber, Shaders, and Post-processing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
